@@ -1,0 +1,37 @@
+AdGuard Home Remote rende la gestione del tuo AdGuard Home semplice e veloce. Abilita/disabilita velocemente le funzionalità di filtraggio, ed inoltre, visualizza le statistiche dei clients principali e i domini più richiesti. Gestisci i clients, filtri, riscritture DNS e altro.
+
+*Controllo filtraggio*
+Puoi abilitare o disabilitare velocemente il filtraggio e la navigazione/ricerca sicura. Puoi anche gestire impostazioni specifiche per i tuoi clients!
+
+*Statistiche*
+Guarda i grafici delle richieste così come i clients e domini principali. Cerca le tue richieste nel Registro con dettagli su richieste e risposte.
+
+*Gestisci impostazioni*
+Aggiungi o rimuovi i tuoi clients, aggiungi nuovi filtri o disabilitali per un po', aggiorna i filtri, modifica i servizi bloccati, gestisci il DHCP e le impostazioni DNS, crea nuove regole DNS, o modifica le tue impostazioni per il Registro richieste.
+
+==
+
+Funzionalità:
+- Controlla il filtraggio e la navigazione/ricerca sicura
+- Visualizza le statistiche base e avanzate
+- Registro richieste con ricerca e filtri
+- Registro live che mostra le richieste in tempo reale (richiede Pro)
+- Gestisci i clients, impostazioni di filtraggio, servizi bloccati e tags (richiede Pro)
+- Gestisci i filtri, liste nera e bianca, regole di filtraggio personalizzate (richiede Pro)
+- Gestisci le impostazioni DHCP e le assegnazioni statiche degli indirizzi IP (richiede Pro)
+- Gestisci le impostazioni DNS (richiede Pro)
+- Gestisci le riscritture DNS (richiede Pro)
+- Supporto per istanze multiple (richiede Pro)
+- Widgets
+- Sincronizzazione iCloud tra iPhone, iPad, ed Apple Watch
+- Colori e icone dell'app personalizzabili
+- Supporto per iOS, iPadOS, macOS e watchOS
+- Un design moderno e pulito, 100% SwiftUI
+
+* AdGuard Home Remote Pro:
+Le funzionalità aggiuntive sono sbloccate con un acquisto singolo che supporterà anche i futuri sviluppi.
+
+==
+
+Nota:
+AdGuard Home Remote è un'app di terze parti, non direttamente affiliata ad AdGuard. Per più informazioni riguardo AdGuard Home, visita https://adguard.com/adguard-home/overview.html.

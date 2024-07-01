@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AdGuardHome
+
+  Criado por Joost van den Akker em 27/05/2021.
+  
+*/
+
+"NSLocalNetworkUsageDescription" = "O AdGuard Home Remote utiliza a rede local para se conectar às suas instâncias do AdGuard Home.";

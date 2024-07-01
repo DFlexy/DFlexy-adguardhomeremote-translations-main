@@ -1,0 +1,250 @@
+{
+    "headerItems": [
+        {
+            "id": 5,
+            "title": "Füge Deine Instanz hinzu",
+            "subtitle": "Einfach!",
+            "imageName": "server.rack",
+            "color": 2,
+            "supportPages": [{
+                    "id": 0,
+                    "title": "Deine Instanz",
+                    "subtitle": "Finde zunächst die IP-Adresse und den Port Deiner AdGuard Home-Installation heraus. Du findest sie in der Adressleiste von Safari! Rufe das Dashboard von AdGuard Home in Safari auf.",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png"
+                },
+                {
+                    "id": 1,
+                    "title": "IP & Port herausfinden",
+                    "subtitle": "Tippe auf die Safari-Adressleiste und finde die IP-Adresse (oder den Hostnamen) und einen Port. Mach Dir nichts draus, wenn Du keine Portnummer siehst. In diesem Fall kannst Du 80 für http und 443 für https verwenden. Nächster Schritt: Gebe diese Daten in die App ein!",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png"
+                },
+                 {
+                     "id": 2,
+                     "title": "Details eingeben",
+                     "subtitle": "Öffne nun AdGuard Home Remote und tippe auf Einstellungen > Instanz hinzufügen. Dort kannst Du die IP und den Port eingeben! Ein letzter Schritt...",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png"
+                 },
+                 {
+                     "id": 3,
+                     "title": "Authentifizierung",
+                     "subtitle": "Erinnerst Du dich an den Benutzernamen und das Passwort, welches Du bei der Installation von AdGuard Home festgelegt hast? Du wirst beides jetzt brauchen! Gib sie innerhalb der App ein.",
+                    "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png",
+                    "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png"
+                 },
+                 {
+                     "id": 4,
+                     "title": "Voilà!",
+                     "subtitle": "Tippe auf 'Verbindung testen' und Du solltest ein grünes Häkchen sehen! Tippe oben rechts auf 'Speichern' und schon ist alles fertig. Du siehst das grüne Häkchen nicht? Bitte überprüfe noch einmal alle eingegebenen Daten. Viel Spaß mit der App!",
+                     "imageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard.png",
+                     "darkImageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard-dark.png"
+                 }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Query Log Tipps & Tricks",
+            "subtitle": "Einige nützliche Tipps!",
+            "imageName": "doc.text.magnifyingglass",
+            "color": 1,
+            "supportPages": [
+                {
+                    "id": 7,
+                    "title": "Langes Drücken",
+                    "subtitle": "Wusstest Du, dass Du eine Abfrage antippen und halten kannst, um Schnellaktionen anzuzeigen?",
+                    "imageURL": "https://rocketscience-it.nl/aghr/support/querylog-contextmenu-light.png",
+                    "darkImageURL": "https://rocketscience-it.nl/aghr/support/querylog-contextmenu-dark.png"
+                },
+                {
+                    "id": 8,
+                    "title": "Extra Detail anzeigen",
+                    "subtitle": "Aktiviere 'Zusätzliche Details anzeigen', um das Query Log etwas detaillierter darzustellen.",
+                    "imageURL": "https://rocketscience-it.nl/aghr/support/querylog-extradetail.png",
+                    "darkImageURL": "https://rocketscience-it.nl/aghr/support/querylog-extradetail.png"
+                }
+            ]
+        }
+    ],
+    "highlightedSections": [
+        {
+            "id": 0,
+            "title": "Setup",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Deine AdGuard Home Instanz hinzufügen",
+                    "subtitle": "Wie fügt man eine Instanz hinzu?",
+                    "imageName": "plus.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "Deine Instanz",
+                            "subtitle": "Finde zunächst die IP-Adresse und den Port Deiner AdGuard Home-Installation heraus. Du findest sie in der Adressleiste von Safari! Rufe das Dashboard von AdGuard Home in Safari auf.",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "IP & Port herausfinden",
+                            "subtitle": "Tippe auf die Safari-Adressleiste und finde die IP-Adresse (oder den Hostnamen) und einen Port. Mach Dir nichts draus, wenn Du keine Portnummer siehst. In diesem Fall kannst Du 80 für http und 443 für https verwenden. Nächster Schritt: Gebe diese Daten in die App ein!",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/safari-dashboard-addressbar-annotated.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Details eingeben",
+                            "subtitle": "Öffne nun AdGuard Home Remote und tippe auf Einstellungen > Instanz hinzufügen. Dort kannst Du die IP und den Port eingeben! Ein letzter Schritt...",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-top-annotated.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Authentifizierung",
+                            "subtitle": "Erinnerst Du dich an den Benutzernamen und das Passwort, welches Du bei der Installation von AdGuard Home festgelegt hast? Du wirst beides jetzt brauchen! Gib sie innerhalb der App ein.",
+                            "imageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png",
+                            "darkImageURL": "https://rocketscience-it.nl/images/adguardhomeremote/support/app-addinstance-bottom.png"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Voilà!",
+                            "subtitle": "Tippe auf 'Verbindung testen' und Du solltest ein grünes Häkchen sehen! Tippe oben rechts auf 'Speichern' und schon ist alles fertig. Du siehst das grüne Häkchen nicht? Bitte überprüfe noch einmal alle eingegebenen Daten. Viel Spaß mit der App!",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/app-dashboard-dark.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "title": "Dashboard",
+                    "subtitle": "Was bedeuten die Buttons?",
+                    "imageName": "house.circle.fill",
+                    "supportPages": [{
+                            "id": 0,
+                            "title": "Regel Filterung",
+                            "subtitle": "Blockiere Domains mit Hilfe von Filtern und Hosts-Dateien.",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/rule-filtering-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/rule-filtering-dark.png"
+                        },
+                        {
+                            "id": 1,
+                            "title": "Sicheres Browsen",
+                            "subtitle": "AdGuard Home prüft, ob die Domain durch den Webdienst für Browsing-Sicherheit blockiert ist. Es verwendet die datenschutzfreundliche Lookup-API, um die Prüfung durchzuführen: nur ein kurzes Präfix des Domainnamens SHA256-Hash wird an den Server gesendet.",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/safe-browsing-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/safe-browsing-dark.png"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Elterliche Filterung",
+                            "subtitle": "AdGuard Home prüft, ob eine Domain nicht jugendfreie Inhalte enthält. Es verwendet dieselbe datenschutzfreundliche Lookup-API wie der Webdienst für sicheres Surfen.",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/parental-filtering-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/parental-filtering-dark.png"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Sichere Suche",
+                            "subtitle": "AdGuard Home erzwingt eine sichere Suche in verschiedenen Suchmaschinen: Google, YouTube, Bing, DuckDuckGo, Yandex, Pixabay.",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/safe-search-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/safe-search-dark.png"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Schutz",
+                            "subtitle": "Zu guter Letzt schaltet der Button ganz links den gesamten Schutz global um. Wenn dieser Button also deaktiviert ist, wird nichts blockiert - auch wenn andere Buttons aktiviert sind!",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/protection-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/protection-dark.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Entwicklung",
+            "items": [
+                {
+                    "id": 5,
+                    "title": "Roadmap",
+                    "subtitle": "Eine grobe Idee von dem, was kommen wird (vielleicht).",
+                    "imageName": "map.circle.fill",
+                    "supportPages": [{
+                            "id": 6,
+                            "title": "Grobe Roadmap",
+                            "subtitle": "AdGuard Home Remote ist nur eine der Apps, die ich als Ein-Mann-Team entwickle, was es - zusammen mit meinen anderen Apps und meinem Job - ein wenig schwierig macht, genau vorherzusagen, wie die Roadmap aussehen wird. Aber hier ist meine beste Vermutung, was bald kommen wird.\n\n#1 - iOS 16 spezifische Funktionen.\n\n#2 - Verbesserte Query Log Suche. Eine Option, um alle Logs zu durchsuchen, anstatt nur die aktuell angezeigten.\n\nNeben diesen Dingen gibt es noch eine ganze Reihe anderer Ideen, die ich geplant habe. Wenn ihr irgendwelche Vorschläge habt, schickt sie mir bitte, ich bin ganz Ohr!\nDanke, Joost",
+                            "imageURL": "https://rocketscience-it.nl/aghr/support/blueprint-rounded-light.png",
+                            "darkImageURL": "https://rocketscience-it.nl/aghr/support/blueprint-rounded-dark.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faqSections": [{
+            "id": 0,
+            "title": "FAQ",
+            "items": [
+                {
+                    "id": 0,
+                    "title": "Ich bekomme sofort eine Fehlermeldung, Hilfe!",
+                    "text": "Verwendest Du die neueste Version von AdGuard Home und AdGuard Home Remote? Hast Du in den iOS-Einstellungen die Erlaubnis für 'Lokalen Netzwerkzugriff' gewährt? Kannst Du es mit der IP-Adresse anstelle des Hostnamens oder andersherum versuchen? Kannst Du Deine Anmeldedaten noch einmal überprüfen?"
+                },
+                {
+                    "id": 1,
+                    "title": "Warum werden die Daten nicht geladen, wenn ich nicht zu Hause bin?",
+                    "text": "Dein AdGuard Home ist wahrscheinlich nur von Deinem lokalen Netzwerk aus zugänglich (also wenn Du zu Hause bist). Die beste Möglichkeit, auf Dein AdGuard Home auch von außerhalb Deines Netzwerks zuzugreifen und ihn zu nutzen, ist die Verwendung eines VPN. Ich kann Dir [PiVPN] (https://pivpn.io) oder [Tailscale] (https://tailscale.com) empfehlen. Auf diese Weise kannst Du von überall aus sicher auf Dein AdGuard Home zugreifen!"
+                },
+                {
+                    "id": 2,
+                    "title": "Warum zeigt mein Homescreen-Widget keine Daten an?",
+                    "text": "Vergewissere Dich, dass Du Dich in einem Netzwerk befindest, in dem Dein Gerät Deine AdGuard Home-Instanz erreichen kann, z. B. in Deinem Heim-WLAN. Du kannst auch einen Neustart des Geräts durchführen, um das Widget komplett neu zu starten."
+                },
+                {
+                    "id": 3,
+                    "title": "Warum bleibt die Apple Watch App an einem Ladekreis hängen?",
+                    "text": "Stelle zunächst sicher, dass Du bei iCloud auf Deinem iPhone angemeldet bist. Starte dann Dein Telefon und Deine Uhr neu, öffne die iPhone-App und dann die Watch-App. Wenn das nicht funktioniert, sollte eine Neuinstallation der App helfen. Ich entschuldige mich für die Unannehmlichkeiten!"
+                },
+                {
+                    "id": 4,
+                    "title": "Ich verwende den Home Assistant. Wie richte ich die App ein?",
+                    "text": "In Home Assistant > Konfiguration > Add-ons, Backups & Supervisor > AdGuard Home > Konfiguration gibt es ein Feld für 'Netzwerk-Host'. Weise dort eine Port-Nummer für das Web-Interface zu und trage diese in die App ein."
+                },
+                {
+                    "id": 5,
+                    "title": "Was ist AdGuard Home?",
+                    "text": "AdGuard Home ist eine netzwerkweite Software zum Blockieren von Werbung und Tracking. Nachdem Du die Instanz eingerichtet hast, deckt sie ALLE Deine Heimgeräte ab; Du brauchst dafür keine clientseitige Software. Erfahre mehr über AdGuard Home auf [GitHub](https://github.com/AdguardTeam/AdGuardHome#readme)."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Feedback",
+            "items": [{
+                    "id": 0,
+                    "title": "Ich habe einen Vorschlag!",
+                    "text": "Ich würde gerne Deine Vorschläge hören! Viele der coolen Funktionen von AdGuard Home Remote gehen direkt auf das Feedback der Benutzerinnen und Benutzer zurück. Bitte teile mir Deine Ideen über die unten stehenden Kontaktmöglichkeiten mit 😊"
+                },
+                {
+                    "id": 1,
+                    "title": "Ich möchte helfen, die App in meine Sprache zu übersetzen!",
+                    "text": "Noice! Bitte kontaktiere mich über die Buttons unten 😊"
+                }
+            ]
+        }
+    ],
+
+    "contactItems": [{
+            "id": 0,
+            "title": "Twitter",
+            "url": "https://www.twitter.com/AdGuardHomeApp",
+            "imageName": "message.fill",
+            "color": 1
+        },
+        {
+            "id": 1,
+            "title": "Email",
+            "url": "mailto:developer@rocketscience-it.nl",
+            "imageName": "envelope.fill",
+            "color": 2
+        }
+    ]
+}
