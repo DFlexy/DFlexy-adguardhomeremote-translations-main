@@ -42,7 +42,7 @@
 "querylog_pro" = "Remote Pro é necessário para visualizar mais consultas.";
 "querylog_sidebar_explainer" = "Selecione uma consulta à esquerda para ver os detalhes.";
 
-// MARK: Filtro
+// MARK: Filter
 "querylog_filter" = "Filtro";
 "querylog_filtered" = "Filtrado";
 "querylog_number-of-queries" = "Número de consultas";
@@ -61,7 +61,7 @@
 "querylog_clear-filtered" = "Limpar filtros de status";
 "querylog_show_queries_status" = "Mostrar consultas com status";
 
-// MARK: Consultas
+// MARK: Queries
 "query_status_NotFilteredNotFound" = "Processado";
 "query_status_NotFilteredWhiteList" = "Processado | Lista de Permissão";
 "query_status_NotFilteredError" = "Processado | Erro";
@@ -84,7 +84,7 @@
 "query_view_queries_from_client" = "Ver consultas do cliente";
 "query_visit_domain" = "Visitar domínio";
 
-// MARK: Detalhes da Consulta
+// MARK: Query Detail
 "querydetail_filter_rule" = "Regra de Filtro";
 "querydetail_client" = "Cliente";
 "querydetail_new_client" = "Novo Cliente";
@@ -108,10 +108,10 @@
 "querydetail_answer" = "Resposta";
 "querydetail_ttl_%lld" = "TTL %lld";
 
-// MARK: - Configurações
+// MARK: - Settings
 "settings_tabbar" = "Configurações";
 
-// MARK: Adicionar/Editar Instância
+// MARK: Add/Edit Instance
 "instance_add" = "Adicionar Instância";
 "instance_new" = "Nova Instância";
 "settings_edit_instance" = "Editar Instância";
@@ -133,7 +133,7 @@
 "instance_remove_alert_body" = "Tem certeza de que deseja remover esta instância?";
 "settings_validation_port" = "Por favor, insira um número de porta válido.";
 
-// MARK: Configurações da Instância
+// MARK: Instance Settings
 "settings_instances" = "Instâncias";
 "settings_reorder" = "Reordenar";
 "settings_add-instance" = "Adicionar Instância";
@@ -147,7 +147,7 @@
 "settings_query-log" = "Registro de Consultas";
 "settings_more" = "Mais";
 
-// MARK: Clientes
+// MARK: Clients
 "client_settings" = "Configurações do Cliente";
 "client_new" = "Novo Cliente";
 "client_edit" = "Editar Cliente";
@@ -183,7 +183,7 @@
 "blocked_services" = "Serviços Bloqueados";
 "tags" = "Tags";
 
-// MARCA: Filtragem
+// MARK: Filtering
 "filtering_settings" = "Configurações de Filtragem";
 "filtering_status" = "Status";
 "filtering_enabled" = "Ativado";
@@ -210,8 +210,7 @@
 "filtering_rule_count_%@" = "%@ regras";
 "filtering_check_filtered" = "Verificar se o Nome do Host Está Filtrado";
 "filtering_pro_required" = "Remote Pro é necessário para gerenciar filtros.";
-
-// Adicionar Filtro
+// Add Filter
 "filtering_addfilter_list" = "Lista";
 "filtering_addfilter_blocklist" = "Lista de Bloqueio";
 "filtering_addfilter_blocklist_new" = "Nova Lista de Bloqueio";
@@ -220,8 +219,7 @@
 "filtering_addfilter_name" = "Nome";
 "filtering_addfilter_url" = "URL";
 "filtering_addfilter_url_placeholder" = "URL ou Caminho Absoluto";
-
-// Regras Personalizadas
+// Custom Rules
 "filtering_rules_custom" = "Regras Personalizadas";
 "filtering_rules_custom_new" = "Nova Regra Personalizada";
 "filtering_rules_add" = "Adicionar Regra";
@@ -249,8 +247,7 @@
 "filtering_rules_examples_comment_subtitle" = "apenas um comentário";
 "filtering_rules_examples_regex_title" = "/REGEX/";
 "filtering_rules_examples_regex_subtitle" = "bloquear domínios que correspondam à expressão regular especificada";
-
-// Verificar Nome do Host
+// Check Hostname
 "filtering_check_hostname" = "Verificar Nome do Host";
 "filtering_check_hostname_placeholder" = "Digite um nome de host...";
 "filtering_check_hostname_check" = "Verificar";
@@ -258,7 +255,7 @@
 "filtering_check_hostname_cname" = "CNAME";
 "filtering_check_hostname_IP" = "IP";
 
-// MARCA: DHCP
+// MARK: DHCP
 "dhcp_settings" = "Configurações de DHCP";
 "dhcp_status" = "Status";
 "dhcp_enable" = "Ativar Servidor DHCP";
@@ -293,8 +290,7 @@
 "dhcp_reset_dhcp_config_footer" = "Redefine todas as configurações de DHCP.";
 "dhcp_reset_dhcp_config_alert_body" = "Tem certeza de que deseja redefinir a configuração de DHCP?";
 "dhcp_pro_required" = "Remote Pro é necessário para gerenciar configurações de DHCP.";
-
-// Concessões Estáticas
+// Static Leases
 "dhcp_staticlease_new" = "Nova Concessão Estática";
 "dhcp_staticlease_edit" = "Editar Concessão Estática";
 "dhcp_staticlease_mac" = "Endereço MAC";
@@ -304,7 +300,7 @@
 "dhcp_staticlease_hostname" = "Nome do Host";
 "dhcp_staticlease_hostname_placeholder" = "raspberrypi.local";
 
-// MARCA: DNS
+// MARK: DNS
 "dns_settings" = "Configurações de DNS";
 "dns_upstream_dns_servers" = "Servidores DNS Upstream";
 "dns_upstream_configured_in_%@" = "Configurado em %@";
@@ -351,7 +347,7 @@
 "dns_override_in_seconds" = "em segundos";
 "dns_pro_required" = "Remote Pro é necessário para gerenciar configurações de DNS.";
 
-// MARCA: Reescritas DNS
+// MARK: DNS Rewrites
 "dnsrewrites_entries" = "Entradas";
 "dnsrewrites_no_entries" = "Nenhuma entrada encontrada.";
 "dnsrewrites_new" = "Nova Reescrita DNS";
@@ -362,7 +358,7 @@
 "dnsrewrites_answer_placeholder" = "IP ou Nome do Domínio";
 "dnsrewrites_pro_required" = "Remote Pro é necessário para gerenciar reescritas DNS.";
 
-// MARCA: Log de Consultas
+// MARK: Query Log
 "querylog_settings_status" = "Status";
 "querylog_settings_enable" = "Ativar Log de Consultas";
 "querylog_settings_options" = "Opções";
@@ -373,7 +369,7 @@
 "querylog_settings_clear_alert" = "Tem certeza de que deseja limpar todo o log de consultas?";
 "querylog_settings_cleared" = "Limpo.";
 
-// MARCA: Mais
+// MARK: More
 "more_statistics" = "Estatísticas";
 "more_statistics_enable" = "Ativar Estatísticas";
 "more_statistics_footer" = "Alterar a configuração de Retenção de Estatísticas requer um reinício do aplicativo.";
@@ -395,7 +391,7 @@
 "more_checking_version" = "Verificando Versão...";
 "more_up_to_date" = "AdGuard Home está atualizado";
 
-// MARCA: Preferências
+// MARK: Preferences
 "settings_preferences" = "Preferências";
 "settings_dashboard" = "Dashboard";
 "preferences_dashboard_statusbuttons" = "Botões de Status";
@@ -447,7 +443,7 @@
 "preferences_lock_unlock_footnote_click" = "Clique acima para desbloquear o AdGuard Home Remote";
 "preferences_lock_unlock_system_alert" = "desbloquear o aplicativo";
 
-// MARCA: Ajuda
+// MARK: Help
 "help_callout" = "Precisa de ajuda?";
 "settings_help" = "Ajuda e Feedback";
 "settings_help_navbar" = "Suporte";
@@ -461,7 +457,7 @@
 "settings_give_feedback_alert_body" = "Por favor, envie um e-mail com qualquer feedback sobre bugs ou melhorias para developer@rocketscience-it.nl!";
 "settings_copy_email" = "Copiar Endereço de Email";
 
-// MARCA: Outras Configurações
+// MARK: Other Settings
 "settings_other" = "Outras";
 "settings_pro" = "Pro";
 "settings_leave_review" = "Deixar uma Avaliação";
@@ -469,7 +465,7 @@
 "settings_changelog" = "O que há de novo";
 "settings_adguard-website" = "Site do AdGuard";
 
-// MARCA: Design
+// MARK: Design
 "settings_design" = "Design";
 "design_color_scheme" = "Esquema de Cores";
 "design_color_scheme_default" = "Padrão";
@@ -499,7 +495,7 @@
 "design_always_darkmode" = "Sempre no Modo Escuro";
 "settings_restart_required" = "Mudar essa configuração requer reinício do aplicativo.";
 
-// MARCA: Registro de Alterações
+// MARK: Changelog
 "changelog_just_updated" = "Atualizado Agora!";
 "changelog_current_version" = "Versão Atual";
 "changelog_whats_new" = "O que há de novo";
@@ -513,7 +509,7 @@
 "changelog_show_on_app_update_footer" = "O Registro de Alterações só será mostrado para atualizações de recursos, não para atualizações que contêm apenas correções de bugs.";
 "changelog_settings" = "Configurações do Registro de Alterações";
 
-// MARCA: - Pro
+// MARK: - Pro
 "pro" = "Pro";
 "pro_navtitle" = "Remote Pro";
 "pro_purchase" = "Comprar Pro";
@@ -535,7 +531,7 @@
 "pro_testflight_alert" = "Vejo que você não tem um cliente de e-mail ativo em seu dispositivo, por favor, me envie um e-mail com o pedido para participar do TestFlight incluindo uma captura de tela desta tela Pro para que eu possa ver que você comprou Pro.\n\nPor favor, envie para developer@rocketscience-it.nl!";
 "pro_testflight_explainer" = "Nota: você está executando uma versão TestFlight do aplicativo, portanto, os pagamentos são processados em modo Sandbox e não são realmente processados.\n\nUma 'licença' Pro será invalidada a cada poucos dias enquanto estiver em uma versão TestFlight. Se você deseja comprar Pro e usar o aplicativo sem esse incômodo, baixe o aplicativo na App Store. Obrigado!";
 
-// MARCA: Recursos Pro
+// MARK: Pro Features
 "pro_view_queries" = "Visualizar mais de 25 consultas e definir filtros";
 "pro_livelog" = "Visualizar Log de Consultas ao Vivo";
 "pro_manage_clients" = "Gerenciar Clientes";
@@ -550,7 +546,7 @@
 "pro_alternative_icons" = "Ícones Alternativos do Aplicativo";
 "pro_beta_access" = "Acesso ao Beta TestFlight";
 
-// MARCA: Fluxo de Compra
+// MARK: Purchase Flow
 "purchase_unknown_error" = "Erro desconhecido. Por favor, entre em contato comigo em developer@rocketscience-it.nl.";
 "purchase_not_allowed" = "Não permitido realizar o pagamento.";
 "purchase_invalid_id" = "O identificador de compra era inválido.";
@@ -560,7 +556,7 @@
 "purchase_connection_error" = "Não foi possível conectar à rede.";
 "purchase_cloud_permission_revoked" = "O usuário revogou a permissão para usar este serviço de nuvem.";
 
-// MARCA: RocketScience
+// MARK: RocketScience
 "settings_rocketscience" = "Feito por RocketScience";
 "rocketscience_hi_title" = "Oi, eu sou Joost!";
 "rocketscience_hi_subtitle" = "Em junho de 2020, comecei a desenvolver meus próprios aplicativos como desenvolvedor independente, sob o nome 'RocketScience IT'.\n\nMeu principal objetivo é aprender: design, desenvolvimento, testes, suporte, promoção - talvez até mais! Atualmente, tenho alguns aplicativos na loja que estou continuamente melhorando e tenho muitas ideias para outros aplicativos que eu possa querer desenvolver no futuro.";
@@ -575,7 +571,7 @@
 "rocketscience_energieradar_subtitle" = "Monitore preços de eletricidade e gás em tempo real em muitos países europeus.";
 "rocketscience_acknoledgements" = "Agradecimentos especiais para";
 
-// MARCA: Caixinha de Dicas
+// MARK: Tip Jar
 "tipjar_navbar" = "Caixinha de Dicas";
 "tipjar_title" = "A Caixinha de Dicas ajuda a manter o AdGuard Home Remote funcionando e apoia diretamente o desenvolvimento de recursos incríveis e melhorias.";
 "tipjar_description" = "Se você gosta de usar este aplicativo e deseja apoiar o desenvolvedor independente (oi! 👋), considere deixar uma gorjeta. Eu realmente aprecio isso!";
@@ -592,7 +588,7 @@
 "tipjar_payment_success" = "Pagamento realizado com sucesso";
 "tipjar_testflight_explainer" = "Nota: você está usando uma versão TestFlight, portanto, os pagamentos são processados em modo Sandbox e não são realmente processados.\n\nSe você deseja dar uma gorjeta, por favor, baixe o aplicativo na App Store! Depois disso, você pode baixar o beta novamente. Obrigado!";
 
-// MARCA: - Outros
+// MARK: - Other
 "loading" = "Carregando";
 "loading_dots" = "Carregando...";
 "search" = "Buscar";
@@ -629,7 +625,7 @@
 "sort" = "Ordenar";
 "sort_by" = "Ordenar por";
 
-// Durações
+// Durations
 "disabled" = "Desativado";
 "1h" = "1 hora";
 "6h" = "6 horas";
@@ -640,7 +636,7 @@
 "30d" = "30 dias";
 "90d" = "90 dias";
 
-// MARCA: Widgets
+// MARK: Widgets
 "widget_dashboard" = "Widget do Painel";
 "widget_dashboard_description" = "Veja suas estatísticas do painel.";
 "widget_disable_buttons" = "Widget de Proteção";
@@ -655,11 +651,11 @@
 "for_%lld_hour_short" = "%lld hora";
 "for_%lld_hours_short" = "%lld horas";
 
-// MARCA: Apple Watch
+// MARK: Apple Watch
 "loading_instances_icloud" = "Carregando instâncias do iCloud...";
 "watch_stuck_reinstall" = "Isso pode demorar um pouco. Se o aplicativo travar nesta tela, tente reinstalá-lo. Desculpe pelo inconveniente!";
 
-// MARCA: Intenções do App, Atalhos, Siri
+// MARK: App Intents, Shortcuts, Siri
 "enable_protection" = "Ativar Proteção";
 "disable_protection" = "Desativar Proteção";
 "enable_protection_allinstances_description" = "Ativar Proteção para todas as instâncias.";
@@ -671,7 +667,7 @@
 "appintents_duration" = "Duração";
 "appintents_duration_explainer" = "Especifica a duração para desativar, em minutos. Defina '0' para desativar indefinidamente.";
 
-// MARCA: v3.0
+// MARK: v3.0
 "dashboard_protection_disable" = "Desativar proteção";
 "for_%lld_seconds" = "Por %lld segundos";
 "for_%lld_minute" = "Por %lld minuto";
@@ -693,8 +689,7 @@
 "safe_search_pixabay" = "Pixabay";
 "safe_search_yandex" = "Yandex";
 "safe_search_youtube" = "YouTube";
-
-// Início - as seguintes strings podem ser encontradas dentro de 'Configurações Gerais' na interface web
+// Start - the following strings can be found inside 'General Settings' on the web interface
 "settings_general_rulefiltering_explainer_title" = "Filtros e arquivos de hosts";
 "settings_general_rulefiltering_explainer_message" = "Você pode configurar regras de bloqueio nas configurações de 'Filtros'.";
 "settings_general_safebrowsing_explainer_title" = "Serviço de segurança de navegação do AdGuard";
@@ -703,9 +698,9 @@
 "settings_general_parentalfiltering_explainer_message" = "O AdGuard Home verificará se o domínio contém materiais adultos. Ele usa a mesma API amigável à privacidade que o serviço de segurança de navegação.";
 "settings_general_safesearch_explainer_title" = "Busca segura";
 "settings_general_safesearch_explainer_message" = "O AdGuard Home aplicará a busca segura em vários motores de busca.";
-// Fim
+// End
 
-// MARCA: v4.1
+// MARK: v4.1
 "dns_fallback_dns_servers" = "Servidores DNS de fallback";
 "dns_fallback_dns_servers_footer" = "Lista de servidores DNS de fallback usados quando os servidores DNS upstream não estão respondendo.";
 "dns_blocked_response_ttl" = "TTL da resposta bloqueada";
