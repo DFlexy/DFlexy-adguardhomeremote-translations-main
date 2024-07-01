@@ -6,7 +6,7 @@
   
 */
 
-// MARK: Intenções de proteção
+// MARK: Protection Intents
 "Ativar proteção em ${applicationName}" = "Ativar proteção em ${applicationName}";
 "Desativar proteção em ${applicationName}" = "Desativar proteção em ${applicationName}";
 "Desativar proteção para ${duration} minutos em ${applicationName}" = "Desativar proteção para ${duration} minutes em ${applicationName}";
